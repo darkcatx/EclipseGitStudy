@@ -6,5 +6,7 @@ public class Happy {
 		System.out.println("happy life left");
 		System.out.println("happy life right");
 		System.out.println("can not complain");
+		
+		System.out.println("hot_fix");
 	}
 }
